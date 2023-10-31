@@ -1,0 +1,6 @@
+interface BillPayment {
+
+    fun payBill()
+
+}
+

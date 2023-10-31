@@ -1,0 +1,20 @@
+----------------------
+The TAJ Restaurant
+Gandhi Nagar, Bengaluru
+------Order Confirmation----
+4x Sandwich : 800.0
+6x Waffles : 1800.0
+Total Amount: 2600.0
+----------------------
+Regular Account Billing
+----------------------
+Delivery Charge :150.0
+Regular Member Discount : 20.0%
+Total Billable Amount : 2230.0 
+Points obtained on this purchase 0.5 * 2230.0 = 1115.0
+2023-10-30 16:57:45
+--------------------------
+Thank you for choosing The Taj Restaurant! Enjoy your meal!
+For any queries, please contact:
++91 653456534
+taj@email.com

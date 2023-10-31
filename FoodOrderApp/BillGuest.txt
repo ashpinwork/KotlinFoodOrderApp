@@ -1,0 +1,19 @@
+----------------------
+The TAJ Restaurant
+Gandhi Nagar, Bengaluru
+------Order Confirmation----
+1x Waffles : 300.0
+2x Pancakes : 240.0
+Total Amount: 540.0
+----------------------
+Guest Billing
+----------------------
+Delivery Charge :300.0
+Total Billable Amount : 840.0 
+2023-10-30 16:47:52
+--------------------------
+Thank you for choosing The Taj Restaurant! Enjoy your meal!
+For any queries, please contact:
++91 653456534
+taj@email.com
+--------------------------
